@@ -1,4 +1,4 @@
-package com.dsa.practice;
+package com.dsa.basicProblems;
 
 public class SumOfNNumbers {
     public static void main(String[] args) {
